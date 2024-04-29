@@ -2,6 +2,10 @@ body {
   font-family: Arial, sans-serif;
 }
 
+*{
+  box-sizing: border-box;
+}
+
 .calculator {
   width: 300px;
   margin: 50px auto;
